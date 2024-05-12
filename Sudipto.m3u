@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Indian",Zee Bangla HD 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Indian", Zee Bangla HD 
 http://97.74.103.44:8089/load/Zee_Bangla_HD_2/chunks.m3u8
-EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Indian",Zee Bangla HD 2
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Indian", Zee Bangla HD 2
 http://97.74.103.44:8089/load/Zee_Bangla_HD/chunks.m3u8
